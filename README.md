@@ -4,5 +4,5 @@ Feel free to test the code [here](https://www.w3schools.com/html/tryit.asp?filen
 # Website
 You can also view PlanetMod at its [Active Site](https://planetmod.w3spaces.com)
 # Showcase
-Below is a captured video of the model in action!
+Below is a demonstration of the model in action!
 ![Demo](https://github.com/user-attachments/assets/11cc445d-353c-4e48-bd44-d611d929da22)
